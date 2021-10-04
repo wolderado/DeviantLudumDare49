@@ -5,8 +5,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NavMeshComponents", "NavMeshComponents.csproj", "{DCC4412A-5B3E-723A-E4DF-E202210436CD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmplifyShaderEditor", "AmplifyShaderEditor.csproj", "{441C12BF-A95B-4939-D3F0-1F40EAA95499}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NavMeshComponentsEditor", "NavMeshComponentsEditor.csproj", "{BEFE972E-9A89-59AD-8E69-F70E8075EDEE}"
 EndProject
 Global
@@ -23,10 +21,6 @@ Global
 		{DCC4412A-5B3E-723A-E4DF-E202210436CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DCC4412A-5B3E-723A-E4DF-E202210436CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DCC4412A-5B3E-723A-E4DF-E202210436CD}.Release|Any CPU.Build.0 = Release|Any CPU
-		{441C12BF-A95B-4939-D3F0-1F40EAA95499}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{441C12BF-A95B-4939-D3F0-1F40EAA95499}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{441C12BF-A95B-4939-D3F0-1F40EAA95499}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{441C12BF-A95B-4939-D3F0-1F40EAA95499}.Release|Any CPU.Build.0 = Release|Any CPU
 		{BEFE972E-9A89-59AD-8E69-F70E8075EDEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{BEFE972E-9A89-59AD-8E69-F70E8075EDEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BEFE972E-9A89-59AD-8E69-F70E8075EDEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
